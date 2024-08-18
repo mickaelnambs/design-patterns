@@ -48,6 +48,3 @@ test-reports/
 
 # Debug
 *.php_cs.cache
-
-# Exclude all .md files, if you don't want to commit markdown documentation
-*.md
